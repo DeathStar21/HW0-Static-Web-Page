@@ -1,0 +1,35 @@
+.img01{
+    height: 7rem;
+    width: 7rem;
+}
+.img02{
+    margin-left: 22rem;
+    height: 20rem;
+    width: 35rem;
+}
+.text01{
+    color: #fff;
+    font-family: Prompt;
+
+}
+.text02{
+    color: rgb(0, 0, 0);
+    font-family: Prompt;
+
+}
+.text02>span{
+    color: rgb(31, 215, 93);
+    font-family: Prompt;
+
+}
+.MT{
+    margin-top: 1rem;
+}
+.MT2{
+    margin-top: 3rem;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
